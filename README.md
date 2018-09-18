@@ -1,6 +1,6 @@
-# Instructions and commands for the GeoSTL website contributors
+# Instructions for Contributors
 
-
+1. Request to be an author by contacting us.
 1. Install [Hugo](https://gohugo.io/)
 2. fork the [repo](https://github.com/dustinturp/GeoSTL_website) to your own repo. 
 3. Clone your repo to your local computer (replace with your clone link)   
