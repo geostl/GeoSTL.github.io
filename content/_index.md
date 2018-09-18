@@ -5,4 +5,4 @@ menu:
   - sidebar
 weight: -270
 ---
-GeoSTL is a group for those interested in maps, cartography, GIS, and community involvement
+GeoSTL is a group for those interested in maps, cartography, GIS, and community involvement.
