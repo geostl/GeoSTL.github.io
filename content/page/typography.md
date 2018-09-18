@@ -1,24 +1,31 @@
 ---
 date: 2017-09-28T08:00:00+06:00
-title: Typography
-authors: ["muniftanjim"]
-slug: typography
+title: Scheduel
+authors: ["derpinturp"]
+slug: scheduel
 menu: main
 weight: -230
 ---
-Here is a paragraph. **Lorem ipsum _dolor_ sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Heading 2
-
-Another one. Ut enim ad minim veniam, _quis nostrud exercitation **ullamco** laboris nisi ut aliquip ex ea commodo consequat_. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Our events can be found here
 
 {{% center %}}
-### Heading 3
+# title in H1 - Month, Day
+
+**Description:** -bolded
+
+**When:** day, Month date at time
+
+**Where:** place name, [address]( link to place)
+
+**Tickets:** tito link
+
+
+# Heading 3
 
 Yet another, but centered! Excepteur sint occaecat ~~cupidatat non proident, sunt in culpa qui officia~~ deserunt mollit anim id est laborum.
-{{% /center %}}
 
-#### Heading 4
+{{% center %}}
+# Heading 4
 
 1. First item
 2. Second item
@@ -27,7 +34,8 @@ Yet another, but centered! Excepteur sint occaecat ~~cupidatat non proident, sun
   1. Nested ordered item 1
   2. Nested ordered item 2
 
-##### Heading 5
+{{% center %}}
+# Heading 5
 
 Where are the quotes!!!
 
@@ -42,7 +50,8 @@ Now, [time for some links](/typography#heading-5)!
 [GoHugo]: https://gohugo.io
 [1]: https://themes.gohugo.io/
 
-###### Heading 6
+{{% center %}}
+#Heading 6
 
 Inline code: `echo "What is the meaning of life?"`. Who knows?
 
